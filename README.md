@@ -88,6 +88,8 @@ The purpose of analysis is to build and evaluate several machine learning models
  
  
  ## Summary:
+ the results show the performance of different models using the same dataset.
+  Easy Ensemble AdaBoost Classifier performed best among all with very less FALSE NEGATIVEs and comparatively less FALSE POSITIVEs.
  
  
  
